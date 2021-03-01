@@ -1,1 +1,1 @@
-console.log("daddy fuck me")
+console.log("Hello, world... DIE!!!!!!")
